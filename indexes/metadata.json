@@ -1,0 +1,6 @@
+{
+  "num_samples": 1000,
+  "embedding_dim": 768,
+  "embedding_type": "simulated_from_puma",
+  "description": "Fashion retrieval embeddings"
+}

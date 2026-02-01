@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs / outputs
+logs/
+*.log
+
+# Datasets
+data/
+data/**
+
+# Model weights / checkpoints
+checkpoints/
+models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
